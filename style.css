@@ -168,9 +168,6 @@ footer {
     text-decoration: none;
     font-weight: bold;
 }
-.btn-outline:hover {
-  transform: translateY(-2px);
-}
 .hero-buttons {
   display: flex;
   gap: 15px;
